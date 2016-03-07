@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PerkaCounter</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="counter_name_hint">Counter A</string>
+    <string name="counter_dialog_title">Name this counter</string>
+</resources>
